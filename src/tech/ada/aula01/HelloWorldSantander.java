@@ -1,3 +1,5 @@
+package tech.ada.aula01;
+
 public class HelloWorldSantander {
 
     public static void main(String[] args) {

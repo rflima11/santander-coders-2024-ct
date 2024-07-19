@@ -1,3 +1,5 @@
+package tech.ada.aula02;
+
 public class Operadores {
 
     public static void main(String[] args) {
